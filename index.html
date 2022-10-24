@@ -1,10 +1,22 @@
 <!DOCTYPE html>
 <html lang="fr">
-    	<head>		
+    <head>		
+		
 		<title>Notre Jeu</title>
-		<script src="script.js"></script>
+		
 	</head>
 
 	<body>
+		<p1>Voici notre jeu</p1>
+		
+			<img id="bannerImage" src="images/reveil.png" height="100%" size="100%" alt="reveil" onclick="changeImage('images/x.png')">
+			<script>
+				
+				function changeImage(filename) {
+					let img = document.querySelector("#bannerImage")
+					img.setAttribute("src", filename);
+				}
+				</script>
 		
 	</body>
+</html>

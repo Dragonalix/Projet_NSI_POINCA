@@ -1,3 +1,4 @@
-let btn = document.createElement("button");
-btn.innerHTML = "Click Me";
-document.body.appendChild(btn);
+function image(img) {
+    var src = img.src;
+    window.open(src);
+}
