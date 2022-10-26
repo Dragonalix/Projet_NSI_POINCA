@@ -1,4 +1,5 @@
-function image(img) {
-    var src = img.src;
-    window.open(src);
-}
+function changeImage(filename) {
+                    let img = document.querySelector("#clickstart")
+                    img.setAttribute("src", "filename");
+                }
+
