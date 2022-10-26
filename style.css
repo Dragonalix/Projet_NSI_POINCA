@@ -1,18 +1,21 @@
+
 #Menu{;
      position: fixed;
- top: 0;
- left: 0;
-}
+     top: 0;
+     left: 0;}
 
 
 #clickstart{
-    margin-left: 55%;
-    margin-top: 65%;
+
+     display: flex;
+      position: fixed ;
+     
 }
 
-
-video{;
+video{
+     display: flex;
 	 position: fixed;
- top: 0;
- left: 0;
+     top: 0;
+     left: 0;
 }
+
