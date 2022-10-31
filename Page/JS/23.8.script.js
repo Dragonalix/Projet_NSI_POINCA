@@ -1,0 +1,1 @@
+setTimeout( () => { window.location.href="../HTML/0.Game_Over.html" }, 2000 );

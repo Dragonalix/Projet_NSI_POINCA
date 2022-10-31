@@ -1,0 +1,22 @@
+#sur_le_bateau{
+    position: relative;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#gauche{
+   position: relative;
+    position: fixed;
+    top: 53%;
+    left: 20%;
+}
+
+#droite{
+    position: relative;
+    position: fixed;
+    top: 53%;
+    right: 20%;
+}

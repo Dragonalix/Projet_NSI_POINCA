@@ -1,0 +1,1 @@
+setTimeout( () => { window.location.href="../HTML/14.3.cabestan.html" }, 500 );

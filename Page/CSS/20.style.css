@@ -1,0 +1,15 @@
+#sur_ponton{
+    position: relative;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#haut{
+    position: relative;
+    position: fixed;
+    top: 53%;
+    right: 43%;
+}

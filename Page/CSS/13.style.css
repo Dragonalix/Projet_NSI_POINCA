@@ -1,0 +1,22 @@
+#Bateau_Haut{
+    position: absolute;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#gauche{
+    position: relative;
+    position: fixed;
+    top: 40%;
+    left: 40%;
+}
+
+#droite{
+    position: relative;
+    position: fixed;
+    top: 60%;
+    left: 60%;
+}

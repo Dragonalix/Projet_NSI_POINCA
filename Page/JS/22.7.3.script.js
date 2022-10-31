@@ -1,0 +1,1 @@
+setTimeout( () => { window.location.href="../HTML/22.7.4.pele.html" }, 1200 );

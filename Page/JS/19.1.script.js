@@ -1,0 +1,1 @@
+setTimeout( () => { window.location.href="../HTML/19.2.on_coule.html" }, 2000 );
